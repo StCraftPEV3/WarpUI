@@ -6,7 +6,7 @@ author: georgianYT
 
 commands:
  warp:
-  description: "Allow teleport player to the world."
+  description: "Allow teleport player to the world by StCraftPEV3"
   
  addwarp:
   description: "Add warp."
